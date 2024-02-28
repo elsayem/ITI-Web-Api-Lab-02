@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "1vzz3RcEqEvJbsyFQ9q20pjG6BreDnbjqRPwmUwXvIo=",
+  "Source": "Lab-01",
+  "BasePath": "_content/Lab-01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab-01\\wwwroot",
+      "Source": "Lab-01",
+      "ContentRoot": "E:\\Software Engineering\\ITI\\.Net\\Web-Api\\Day-01\\Lab-01\\Lab-01\\Lab-01\\wwwroot\\",
+      "BasePath": "_content/Lab-01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Software Engineering\\ITI\\.Net\\Web-Api\\Day-01\\Lab-01\\Lab-01\\Lab-01\\wwwroot\\htmlpage.html",
+      "SourceId": "Lab-01",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Software Engineering\\ITI\\.Net\\Web-Api\\Day-01\\Lab-01\\Lab-01\\Lab-01\\wwwroot\\",
+      "BasePath": "_content/Lab-01",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}
